@@ -1,0 +1,5 @@
+flask
+sqlalchemy
+pymysql
+matplotlib
+numpy
